@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"tar-fs": "^3.0.6"
+	}
+}
